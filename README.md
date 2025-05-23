@@ -1,12 +1,12 @@
 # Smart Window Web Controller
 
-This is a simple web page with an On/Off toggle button to control a smart window's status.
+Control the window from any device, even in bed when you don't want to get up.
 
 ## Features
 
 - Responsive toggle switch
 - Real-time display of window status ("ON" or "OFF")
-- Easy to integrate with backend APIs or IoT devices
+
 
 ## Code
 
